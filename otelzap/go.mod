@@ -1,9 +1,9 @@
 module github.com/agoda-com/opentelemetry-go/otelzap
 
-go 1.22
+go 1.23
 
 require (
-	github.com/agoda-com/opentelemetry-logs-go v0.5.1
+	github.com/agoda-com/opentelemetry-logs-go v0.6.0
 	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/otel v1.34.0
 	go.opentelemetry.io/otel/sdk v1.34.0
